@@ -108,6 +108,21 @@ Copy code
 pytest --cov=.
 What to Expect:
 
+
+<img width="1440" alt="Screenshot 2024-09-22 at 4 43 00 PM" src="https://github.com/user-attachments/assets/ee084254-339d-4333-bb28-e2e2e583a203">
+
+
+
+
+
+
+<img width="1440" alt="Screenshot 2024-09-22 at 4 43 10 PM" src="https://github.com/user-attachments/assets/6af266c9-ecee-4268-9040-f1ea1175911f">
+
+
+
+
+
+
 The tests will check key generation, token issuance, and the endpoints.
 You should see a coverage report at the end.
 Using the Test Client
