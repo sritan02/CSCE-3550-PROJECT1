@@ -26,7 +26,7 @@ First things first, let's get the code on your machine.
 
 bash
 Copy code
-git clone https://github.com/your_username/jwks-server.git
+git clone https://github.com/sritan02/CSCE-3550-PROJECT1.gitq
 cd jwks-server
 2. Set Up a Virtual Environment (Optional but Recommended)
 This keeps your project dependencies isolated.
