@@ -1,4 +1,4 @@
-Welcome to Your JWKS Server Project! 🎉
+Welcome to JWKS Server Project! 🎉
 
 Hey there! 👋
 
